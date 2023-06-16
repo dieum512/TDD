@@ -1,4 +1,4 @@
-# school-library# <a name="readme-top"></a>
+# Test Driven Development # <a name="readme-top"></a>
 
 # 📗 Table of Contents
 
@@ -24,12 +24,13 @@
 
 # 📖 School Library <a name="about-project"></a>
 
-**School Library** is a ruby application library that contain record about people i.e students, teachers with name of books. It also allows you to add remove people and books, you ca also rent the books and the application keeps track of all this data
+**TDD** A Test Driven Development example with solving a problem . 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - [ ] Ruby
 - [ ] Linters
+- [ ] RSpec Unit Testing
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -73,7 +74,7 @@ ruby main.rb
 
 Clone this repository to your desired folder:
 
-Clone this [ link to your local mechine](https://github.com/Rana-Mudassir/school-library.git)
+Clone this [ link to your local mechine](https://github.com/dieum512/TDD.git)
 
 ### Install
 
@@ -109,7 +110,7 @@ sudo install ruby
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Rana-Mudassir/school-library/issues).
+Feel free to check the [issues page](https://github.com/dieum512/TDD/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
