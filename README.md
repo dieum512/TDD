@@ -13,7 +13,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -24,7 +23,7 @@
 
 # 📖 School Library <a name="about-project"></a>
 
-**TDD** A Test Driven Development example with solving a problem . 
+**TDD** A Test Driven Development example with solving a problem .
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,11 +43,6 @@
 ### Key Features <a name="key-features"></a>
 
 - **Class inheritance and extention**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [ ] There is no live preview yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,6 +80,14 @@ sudo install ruby
 
 ## 👥 Authors <a name="authors"></a>
 
+### Run tests
+
+Runtests in this project with:
+
+rspec tests
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 👤 **Rana Mudassir**
 
 - GitHub: [@Mudassir](https://github.com/Rana-Mudassir)
@@ -102,7 +104,7 @@ sudo install ruby
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Unit testing**
+- [ ] **Develop the UI**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
